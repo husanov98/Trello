@@ -8,7 +8,6 @@ import uz.mh.trello.dtos.TaskCreateDto;
 import uz.mh.trello.mappers.TaskMapper;
 import uz.mh.trello.repository.Column1Repository;
 import uz.mh.trello.repository.TaskRepository;
-import uz.mh.trello.response.ApiResponse;
 
 import java.util.List;
 import java.util.Optional;
